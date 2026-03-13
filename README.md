@@ -13,6 +13,7 @@ GROUP MEMBERS
 |FELIX JOSHUA    |BSCCS/2023/67180 |
 |KUBWA ERNEST    |BSCCS/2023/68051 |
 |KEITH MUTUMA    |BSCCS/2023/72548 |
+|Abdimalik mohamud |Bsccs/2023/67721|
 ---
  Project Description
 This project contains architectural and engineering plans for a 14-floor commercial building designed using 
